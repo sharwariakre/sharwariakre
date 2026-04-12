@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Agentic%20AI%20Builder-%F0%9F%A4%96-blueviolet?style=flat-square" alt="Agentic AI badge">
   <img src="https://img.shields.io/badge/Published%20Author-IJEEC%202023-green?style=flat-square" alt="Published badge">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20Full%20Stack%20%7C%20AI-brightgreen?style=flat-square" alt="Open to work badge">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner badge">
 </p>
 
 ---
@@ -31,7 +32,7 @@
 
 | 🎓 Education | 🛠️ Core Focus | 🏆 Highlights |
 |---|---|---|
-| **M.S. Computer Science** — NC State University<br>**B.E. Computer Engineering** — Pune, India | Agentic AI · LLM Pipelines · Backend Systems · Full Stack (React + APIs + Cloud) · DevOps | 📝 Published at **IJEEC 2023**<br>⚡ 40% API latency reduction @ Trust2Connect<br>🛡️ 70% vulnerability reduction via AI pipeline |
+| **M.S. Computer Science** — NC State University<br>**B.E. Computer Engineering** — Pune, India | Agentic AI · LLM Pipelines · Backend Systems · Full Stack (React + APIs + Cloud) · DevOps | 📝 Published at **IJEEC 2023**<br>⚡ 40% API latency reduction @ Trust2Connect<br>🛡️ 70% vulnerability reduction via AI pipeline<br>☁️ **AWS Certified Cloud Practitioner** |
 
 ---
 
