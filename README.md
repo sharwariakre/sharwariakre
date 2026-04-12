@@ -28,7 +28,7 @@
 ---
 
 ## 🚀 Quick Pitch
-> *I build intelligent, production-grade systems where AI doesn't just generate — it reasons, decides, and acts. From agentic pipelines to distributed backends and full stack applications, I'm focused on engineering that ships and scales.*
+> *I build intelligent, production-grade systems where AI doesn't just generate; it reasons, decides, and acts. From agentic pipelines to distributed backends and full stack applications, I'm focused on engineering that ships and scales.*
 
 | 🎓 Education | 🛠️ Core Focus | 🏆 Highlights |
 |---|---|---|
