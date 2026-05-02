@@ -97,6 +97,18 @@
 
 ## 🌟 Signature Projects
 
+<details><summary><strong>Aria Companion — AI Voice Agent for Elderly Care 🤖</strong></summary>
+
+A proactive AI companion that calls elderly individuals daily — reasoning, remembering, and caring, all without human intervention.
+
+Built an end-to-end agentic voice pipeline using Twilio, Faster-Whisper (STT), Kokoro (TTS), and a local Llama3 model via Ollama — the agent autonomously initiates calls, holds natural multi-turn conversations, and tracks emotional wellbeing over time. Episodic memory (pgvector + sentence-transformers) lets Aria remember past calls and personalize each conversation.
+
+**Key Highlights:**
+- Fully autonomous call orchestration: Twilio → STT → LLM → TTS pipeline with no human in the loop
+- Episodic memory via LLM-based fact extraction + semantic retrieval (pgvector cosine similarity)
+- Real-time mood scoring from acoustic features (energy, pitch, pause ratio via Librosa) with email escalation on detected distress
+</details>
+
 <details open><summary><strong>CodeNarrator — Autonomous AI Developer Tool 🤖</strong></summary>
 
 An agent that explores and understands codebases *on its own* — no hand-holding required.
