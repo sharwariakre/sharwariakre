@@ -32,7 +32,7 @@
 
 | 🎓 Education | 🛠️ Core Focus | 🏆 Highlights |
 |---|---|---|
-| **M.S. Computer Science** — NC State University<br>**B.E. Computer Engineering** — Pune, India | Agentic AI · LLM Pipelines · Backend Systems · Full Stack (React + APIs + Cloud) · DevOps | 📝 Published at **IJEEC 2023**<br>⚡ 40% API latency reduction @ Trust2Connect<br>🛡️ 70% vulnerability reduction via AI pipeline<br>☁️ **AWS Certified Cloud Practitioner** |
+| **M.S. Computer Science** — NC State University<br>**B.E. Information Technology** — Pune, India | Agentic AI · LLM Pipelines · Backend Systems · Full Stack (React + APIs + Cloud) · DevOps | 📝 Published at **IJEEC 2023**<br>⚡ 40% API latency reduction @ Trust2Connect<br>🛡️ 70% vulnerability reduction via AI pipeline<br>☁️ **AWS Certified Cloud Practitioner** |
 
 ---
 
