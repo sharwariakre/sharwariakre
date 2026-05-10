@@ -37,7 +37,7 @@
 
 ## 🤖 About Me
 
-- 🎓 Pursuing **Masters in Computer Science** at NC State University, Raleigh NC
+- 🎓 I hold a **Master's degree in Computer Science** from NC State University.
 - 🧠 Building at the intersection of **agentic AI** and **production backend engineering**
 - 🔧 I don't just use LLMs for inference — I build systems where models **reason, orchestrate, and act**
 - 🌐 Experience across the full stack: React frontends → REST APIs → cloud-deployed microservices
