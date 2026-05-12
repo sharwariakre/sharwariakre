@@ -70,6 +70,8 @@
 
 ### AI / LLM
 [![](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+[![](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain-ai.github.io/langgraph/)
 [![](https://img.shields.io/badge/Local%20LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)]()
 [![](https://img.shields.io/badge/Agent%20Pipelines-FF5733?style=for-the-badge&logo=python&logoColor=white)]()
 
