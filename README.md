@@ -110,6 +110,18 @@ Built an end-to-end agentic voice pipeline using Twilio, Faster-Whisper (STT), K
 - Real-time mood scoring from acoustic features (energy, pitch, pause ratio via Librosa) with email escalation on detected distress
 </details>
 
+<details open><summary><strong>Meeting Negotiator — Multi-Agent Scheduling System 🤖</strong></summary>
+
+A multi-agent system that negotiates meeting times on behalf of participants — reasoning about seniority, constraints, and preferences the way a skilled executive assistant would.
+
+Built a 4-agent LangGraph pipeline where advocate agents propose slots per participant and an arbitrator runs deterministic interval-intersection on 20+ real Google Calendar slots before LLM selection, preventing hallucination. The negotiation loop runs up to 3 rounds before escalating. Backed by a FastAPI backend and React UI.
+
+**Key Highlights:**
+- Deterministic overlap detection before any LLM call — LLM only selects between verified slots
+- Google Calendar freebusy API with per-participant OAuth and automatic event creation on consensus
+- ~10s end-to-end; 45 tests across overlap logic, graph runs, and state schema; GitHub Actions CI
+</details>
+
 <details open><summary><strong>CodeNarrator — Autonomous AI Developer Tool 🤖</strong></summary>
 
 An agent that explores and understands codebases *on its own* — no hand-holding required.
